@@ -13,7 +13,9 @@ Scrapes iPfam and for co-complex (structure solved) protein-protein interactions
 #Dependencies:
 
 python 2.7.6: 			sudo apt-get install python27
+
 splinter (python package): 	sudo pip install splinter
+
 pickle (python package): 	sudo pip install pickle
 
 #Input/config files:
