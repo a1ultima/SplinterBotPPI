@@ -8,13 +8,13 @@ Scrapes iPfam and for co-complex (structure solved) protein-protein interactions
 
 #Usage:
 	
-#bash ./generate_ppi.sh
+	bash ./generate_ppi.sh
 
 #Dependencies:
 
-python 2.7.6: 			#sudo apt-get install python27
-splinter (python package): 	#sudo pip install splinter
-pickle (python package): 	#sudo pip install pickle
+python 2.7.6: 			sudo apt-get install python27
+splinter (python package): 	sudo pip install splinter
+pickle (python package): 	sudo pip install pickle
 
 #Input/config files:
 
