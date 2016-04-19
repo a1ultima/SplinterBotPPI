@@ -1,6 +1,6 @@
-################
-# SPLINTER BOT #
-################
+####################
+# SPLINTER BOT PPI #
+####################
 
 #Description:
 	
@@ -23,6 +23,10 @@ splinter (python package):
 pickle (python package): 	
 
 	sudo pip install pickle
+	
+Firefox (browser)
+
+	sudo apt-get install firefox
 
 #Input/config files:
 
