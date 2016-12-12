@@ -1,3 +1,5 @@
+Author: Andrew Brockman
+
 ####################
 # SPLINTER BOT PPI #
 ####################
